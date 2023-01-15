@@ -1,4 +1,4 @@
-/* fonts */
+
 
 
 .section-a{
@@ -13,4 +13,30 @@
     border: none;
     margin: 20px;
 
+}
+.section-b{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    
+    
+}
+.img-sec-b{
+    display: grid;
+    grid-template-columns: repeat(2, 360px);
+
+}
+.sec-b{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    text-align: left;
+}
+.button-b{
+    
+    border: none;
+    
 }
