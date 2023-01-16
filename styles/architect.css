@@ -158,4 +158,48 @@ nav ul{
 }
 .some-des{
     color: gray;
+    margin-bottom: 50px;
+}
+
+/* icons style */
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.number{
+    font-weight: 800;
+    font-size: 35px;
+    color: gray;
+}
+.icon-des{
+    font-size: 20px;
+    font-weight: 500;
+    color: gray;
+}
+
+.ic{
+    text-align: center;
+    border-color: orangered;
+    border-radius: 5px;
+    width: 200px;
+    margin: auto;
+    
+}
+.ic :hover{
+    background-color: blueviolet;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.f-p{
+    background-color: aqua;
+    text-align: center;
+    margin-top: 50px;
+    height: 50px;
+    margin-bottom: 50px;
+    align-items: center;
 }
