@@ -113,9 +113,40 @@ nav ul{
 .section-c{
     display: flex;
     justify-content: center; 
+    margin: 100px;
     
     
 }
  .sec-c-boxes{
     padding: 50px;
  }
+.box-t{
+    font-size: 18px;
+    font-weight: 570;
+}
+.sec-c-title{
+    font-size: 50px;
+    border-left: 5px;
+}
+.box-p{
+    height: 150px;
+    padding-right: 5px;
+    width: 3px;
+    background-color: orange;
+    border-right: 5px;
+
+}
+.ttf{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    
+    padding: 4px;
+    border: 6px;
+    justify-content: flex-start;
+    gap: 3px;
+    
+    
+
+}
+    
